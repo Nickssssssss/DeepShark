@@ -1,0 +1,29 @@
+# Ambientes virtuais alternativos
+env/
+venv/
+.env
+.venv
+
+# Pastas de IDE/Editor
+.vscode/
+.idea/
+
+# Arquivos de SO / cache
+.DS_Store
+Thumbs.db
+*.log
+*.csv         
+*.pcap         
+*.faiss        
+.pytest_cache/
+.mypy_cache/
+.coverage*
+htmlcov/
+__pycache__
+
+# Artefatos Python adicionais
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
