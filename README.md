@@ -58,8 +58,8 @@ pip install -r requirements.txt
 Crie um arquivo **`.env`** na raiz do projeto e defina pelo menos uma das chaves:
 
 ```
-OPENAI_API_KEY="sk-..."   # opcional se usar OpenAI
-GROQ_API_KEY="gsk_..."    # opcional se usar Groq
+OPENAI_API_KEY=""   # opcional se usar OpenAI
+GROQ_API_KEY=""    # opcional se usar Groq
 ```
 
 ## Como executar
